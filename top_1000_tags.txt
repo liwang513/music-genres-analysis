@@ -1,0 +1,1000 @@
+rock	496
+alternative	449
+indie	420
+pop	368
+american	327
+electronic	289
+british	233
+alternative rock	220
+female vocalists	214
+indie rock	210
+singer-songwriter	163
+indie pop	152
+folk	137
+electronica	134
+dance	133
+classic rock	126
+Hip-Hop	118
+experimental	114
+metal	108
+hard rock	107
+80s	99
+soul	98
+hip hop	90
+male vocalists	88
+rnb	85
+acoustic	74
+70s	74
+rap	72
+90s	68
+punk	67
+ambient	62
+psychedelic	57
+chillout	56
+heavy metal	55
+blues	55
+pop rock	55
+House	53
+indie folk	50
+electro	50
+synthpop	49
+Canadian	46
+instrumental	46
+jazz	44
+downtempo	44
+dream pop	44
+punk rock	43
+electropop	43
+r&b	42
+trip-hop	41
+britpop	41
+Lo-Fi	40
+funk	40
+oldies	39
+swedish	39
+alternative metal	39
+emo	39
+Progressive rock	35
+piano	34
+new wave	34
+post-punk	34
+blues rock	34
+dubstep	33
+60s	32
+folk rock	31
+female vocalist	29
+pop punk	28
+australian	27
+Garage Rock	27
+post-grunge	26
+female	26
+post-rock	25
+french	25
+hardcore	24
+Nu Metal	24
+Psychedelic Rock	23
+Classical	23
+shoegaze	23
+techno	22
+electro house	22
+idm	21
+Alt-country	20
+Grunge	20
+soft rock	20
+underground hip-hop	19
+indietronica	19
+Progressive	19
+new york	18
+death metal	18
+Progressive House	18
+chillwave	17
+art rock	17
+hiphop	17
+german	17
+Soundtrack	17
+composer	16
+All	16
+composers	16
+Gangsta Rap	16
+thrash metal	16
+metalcore	15
+Scottish	15
+Melodic Death Metal	14
+country	14
+irish	14
+Nu-metal	13
+trip hop	13
+lounge	13
+americana	13
+Disco	13
+Mellow	13
+Progressive metal	13
+reggae	13
+post-hardcore	13
+sexy	12
+Power metal	12
+glam rock	12
+guitar	12
+screamo	12
+synth pop	12
+minimal	12
+Sweden	12
+rhythm and blues	12
+Gothic	11
+industrial	11
+post rock	11
+deep house	11
+speed metal	10
+Dirty South	10
+rapcore	10
+UK	10
+groove metal	9
+glitch	9
+Drum and bass	9
+west coast	9
+ethereal	9
+vocal jazz	9
+freak folk	9
+Southern Rock	9
+ska	9
+noise	9
+Avant-Garde	8
+swing	8
+trap	8
+canada	8
+trance	8
+breakbeat	8
+alternative hip-hop	8
+seattle	8
+norwegian	8
+hair metal	8
+Rock and Roll	8
+Neo-Soul	8
+classic	8
+West Coast Rap	8
+contemporary classical	8
+swag	7
+powerpop	7
+Gothic Metal	7
+new rave	7
+east coast rap	7
+dutch	7
+Female fronted metal	7
+danish	7
+southern rap	7
+Acoustic Rock	7
+neoclassical	7
+political	7
+chill	7
+power pop	7
+symphonic metal	7
+instrumental hip-hop	7
+Gothic Rock	7
+noise rock	7
+UK Garage	6
+christian	6
+melancholic	6
+Brostep	6
+france	6
+glo-fi	6
+post-dubstep	6
+melodic metalcore	6
+United States	6
+christian rock	6
+english	6
+los angeles	6
+motown	6
+latin	6
+thrash	6
+future garage	6
+finnish	6
+alternative rnb	6
+industrial metal	6
+noise pop	5
+black metal	5
+EDM	5
+club	5
+gangsta	5
+Stoner Rock	5
+diva	5
+london	5
+AOR	5
+art pop	5
+Pop-punk	5
+chamber pop	5
+minimalism	5
+East Coast	5
+nu jazz	5
+X factor	5
+score	5
+acid jazz	5
+ninja tune	5
+California	5
+Soundtracks	5
+industrial rock	5
+atmospheric	5
+doom metal	5
+United Kingdom	5
+melodic hardcore	5
+icelandic	5
+easy listening	5
+proto-punk	5
+jazz vocal	5
+experimental hip-hop	5
+dub	5
+Hip Hop/Rap	5
+romantic	5
+USA	5
+New Weird America	5
+Swedish Metal	5
+Drum n Bass	5
+atlanta	4
+Neo-Psychedelia	4
+dnb	4
+melodic metal	4
+glitch-hop	4
+hardcore punk	4
+Blue-Eyed Soul	4
+Girl Groups	4
+dance-punk	4
+NWOBHM	4
+rockabilly	4
+spanish	4
+urban	4
+scandinavian	4
+crossover	4
+Neo Soul	4
+Pop-Rock	4
+rock n roll	4
+wonky	4
+Disney	4
+50s	4
+Warp	4
+underground rap	4
+00s	4
+surf rock	4
+welsh	4
+favorites	4
+Post-punk revival	4
+dance punk	4
+australia	4
+nu disco	4
+italian	4
+turntablism	4
+south african	4
+new age	4
+boyband	4
+glam	3
+ost	3
+Voice	3
+moombahton	3
+piano rock	3
+The Beatles	3
+Jazz Hop	3
+french house	3
+10s	3
+Norway	3
+chicago	3
+legend	3
+vocal trance	3
+gothenburg metal	3
+Big Band	3
+witch house	3
+hippie	3
+folktronica	3
+violin	3
+funky	3
+comedy	3
+jungle	3
+epic metal	3
+Grime	3
+bass	3
+baroque pop	3
+2014	3
+detroit	3
+Garage Punk	3
+progressive death metal	3
+ska punk	3
+old school	3
+hardcore hip-hop	3
+celtic	3
+New Orleans	3
+Experimental Rock	3
+classic metal	3
+germany	3
+Jam	3
+Manchester	3
+gospel	3
+alternative rap	3
+modern classical	3
+Surf	3
+male vocalist	3
+fun	3
+jack white	3
+funny	3
+psychedelic pop	3
+guitar virtuoso	3
+kickasstic	3
+band	3
+G-funk	3
+jam band	3
+New Zealand	3
+American Idol	3
+emocore	3
+big beat	3
+2010s	3
+progressive trance	3
+Technical Death Metal	3
+liquid funk	3
+slowcore	3
+british invasion	3
+ofwgkta	3
+uk funky	3
+Brooklyn	3
+russian	3
+minimalist	2
+dancehall	2
+drum'n'bass	2
+country pop	2
+Funk Rock	2
+jecks	2
+ed banger	2
+r and b	2
+Electro Pop	2
+girlband	2
+abstract hip-hop	2
+Classic Punk	2
+trumpet	2
+Dreamy	2
+DIsco House	2
+guilty pleasure	2
+bebop	2
+pink	2
+post-classical	2
+surf pop	2
+producer	2
+minimal techno	2
+Rihanna	2
+austrian	2
+Bob Marley	2
+djs	2
+cover	2
+darkwave	2
+netherlands	2
+Rave	2
+jay-z	2
+Korean	2
+sadcore	2
+goth	2
+funk metal	2
+r'n'b	2
+Tom Petty	2
+jamaica	2
+Retro	2
+deathcore	2
+folk punk	2
+nu-disco	2
+1d	2
+Belgium	2
+Brutal Death Metal	2
+black eyed peas	2
+pittsburgh	2
+Kanye West	2
+Recommended	2
+vocal	2
+one direction	2
+George Michael	2
+check out	2
+rap rock	2
+Impressionist	2
+BPitch Control	2
+drone	2
+Acid Rock	2
+america	2
+Glam Metal	2
+melbourne	2
+Elephant 6	2
+twee	2
+no wave	2
+beatles	2
+dj	2
+Symphonic Rock	2
+Awesome	2
+microhouse	2
+psychedelic folk	2
+Ballad	2
+roc nation	2
+Electroclash	2
+young money	2
+trancecore	2
+camp rock	2
+compton	2
+Wiz Khalifa	2
+North Carolina	2
+New Wave of British Heavy Metal	2
+boybands	2
+ireland	2
+synth	2
+orchestral	2
+underground	2
+bluegrass	2
+space rock	2
+Impressionism	2
+Linkin Park	2
+poland	2
+baroque	2
+musical	2
+Crunk	2
+polish	2
+complextro	2
+teen pop	2
+tech house	2
+mod	2
+country rock	2
+alex turner	2
+jangle pop	2
+latin pop	2
+garage	2
+black hippy	2
+nu-jazz	2
+radiohead	2
+Shock Rock	2
+nu soul	2
+folk metal	2
+Lil Wayne	2
+math rock	2
+LastfmSC	2
+Horrorcore	2
+cloud rap	2
+whalecore	2
+horror punk	2
+smooth	2
+roots reggae	2
+jamaican	2
+arctic monkeys	2
+falsetto	2
+arena rock	2
+covers	2
+liverpool	2
+P!nk	2
+finnish metal	2
+electronic rock	2
+Brand New	1
+GRLNATION	1
+ragga	1
+katy perry	1
+synthcore	1
+hot	1
+New York Rap	1
+Nicole Scherzinger	1
+maroon 5	1
+hoobastank	1
+Hard Bop	1
+Fuzz-Folk	1
+taylor swift	1
+doo wop	1
+harry styles	1
+deep purple	1
+santana	1
+Eminem	1
+Nirvana	1
+ray charles	1
+Massive Attack	1
+Kitsune	1
+siblings	1
+bryan adams	1
+disney channel	1
+Rainbow	1
+baptism hymn	1
+rap metal	1
+contemporary piano	1
+sloppy	1
+prog	1
+Ariana Grande	1
+cool	1
+Southern Soul	1
+jason mraz	1
+a-ha	1
+dallas green	1
+Paramore	1
+Avicii	1
+polish death metal	1
+anticon	1
+try	1
+dark pop	1
+Ne-Yo	1
+saxophone	1
+ben harper	1
+10cc	1
+musicals	1
+Lana Del Rey	1
+crooners	1
+cher	1
+instagram	1
+Trill	1
+guitar god	1
+nicki minaj	1
+within temptation	1
+50 Cent	1
+Red Hot Chili Peppers	1
+janet jackson	1
+al green	1
+a cappella	1
+Eels	1
+dreamwave	1
+Lowlands 2014	1
+next level beats	1
+Blackened Death Metal	1
+whitney houston	1
+the fratellis	1
+psychadelic	1
+Snow Patrol	1
+shoegazer	1
+lmfao	1
+ennio morricone	1
+Poets of the Fall	1
+better than demi lovato	1
+blur	1
+robbie williams	1
+steve aoki	1
+Ludwig van Beethoven	1
+Roxette	1
+celtic punk	1
+wu-tang	1
+Pet Shop Boys	1
+drill	1
+garage pop	1
+G-Unit	1
+ballet	1
+Norge	1
+beck	1
+Disturbed	1
+Pitbull	1
+Fifth Harmony	1
+paul simon	1
+Lupe Fiasco	1
+the sing off	1
+reggae fusion	1
+Queen	1
+alaska	1
+JAMES BLUNT	1
+elton john	1
+queue	1
+tv	1
+colbie caillat	1
+Ciara	1
+Dj Tiesto	1
+miguel	1
+purevolume	1
+Bridgit Mendler	1
+stone temple pilots	1
+crazy	1
+weezy f aka yancy tate	1
+Justin Timberlake	1
+pantera	1
+wilco	1
+Alesso	1
+Europe	1
+Korn	1
+afrikaans	1
+christina perri	1
+nat king cole	1
+bad religion	1
+Rent	1
+northern soul	1
+cali	1
+symphony	1
+Horrorpunk	1
+ambient pop	1
+eddie vedder	1
+mysterious	1
+bon jovi	1
+indie electronic	1
+belgian	1
+viking metal	1
+Slash	1
+relax	1
+One Hit Wonders	1
+crooner	1
+jennifer lopez	1
+heartland rock	1
+5SOS	1
+good music	1
+2pac	1
+need more	1
+avril lavigne	1
+Gavin DeGraw	1
+just my	1
+ohio pride	1
+dr dre	1
+free jazz	1
+ambience	1
+Fort Minor	1
+Synth-Rock	1
+cosmic	1
+Hans Zimmer	1
+uplifting trance	1
+gwen stefani	1
+Colombia	1
+dark ambient	1
+uk bass	1
+French jazz	1
+Italy	1
+post hardcoret-hardcore	1
+Extreme Power Metal	1
+kavinsky	1
+girls aloud	1
+Dub house	1
+the who	1
+folk amorzinho	1
+punk rawk	1
+the knife	1
+share	1
+boston	1
+The Police	1
+childish gambino	1
+Coldplay	1
+chevelle	1
+Johnny Cash	1
+trey songz	1
+Warp Records	1
+ex T H E S L O W D O W N	1
+abba	1
+simple plan	1
+Fusion	1
+pure	1
+Etta James	1
+HIM	1
+Rat Pack	1
+Uplifting	1
+classical crossover	1
+Goa Trance	1
+Nelly Furtado	1
+Laura Marling	1
+future trip-hop	1
+bring me the horizon	1
+Amy Winehouse	1
+trash metal	1
+the allman brothers band	1
+Comedy Rock	1
+Cake	1
+kaiser chiefs	1
+Rise Against	1
+russelaat	1
+thin lizzy	1
+john lennon	1
+the vamps	1
+Black Sabbath	1
+music theme	1
+The Lumineers	1
+Snakes on a Motherfucking Plane	1
+visual kei	1
+spoon	1
+dave matthews band	1
+Whitesnake	1
+seen live	1
+acousticindiefolk	1
+scrubs	1
+IMAGINE DRAGONS	1
+Selena Gomez	1
+harlem	1
+cute	1
+olly murs	1
+zef	1
+shmoney dance	1
+Polska wersja utworu Marc Collin - In a manner of Speaking	1
+enya	1
+poetry	1
+neue deutsche härte	1
+toto	1
+Sabaton	1
+dance-pop	1
+The Offspring	1
+roots	1
+staind	1
+perfect	1
+spotify	1
+hardwell	1
+Sade	1
+beyonce	1
+Creed	1
+Tom Waits	1
+4ad	1
+youtube	1
+Nintendocore	1
+acappella	1
+seen live thrice	1
+Steppenwolf	1
+neo-psych	1
+texas	1
+Jack Antonoff	1
+celtic metal	1
+zooey deschanel	1
+Bob Dylan	1
+duke ellington	1
+Chris Brown	1
+quiet storm	1
+kiss	1
+Rammstein	1
+eric clapton	1
+Iron Maiden	1
+lynyrd skynyrd	1
+humour	1
+cello metal	1
+opera	1
+Electro-Hop	1
+dido	1
+Bill Withers	1
+Yann Tiersen	1
+symphonic power metal	1
+robyn	1
+matchbox twenty	1
+female-vocalist	1
+Shakira	1
+Lifehouse	1
+Glee Cast	1
+england	1
+Seal	1
+train	1
+Pure American Metal	1
+Splin	1
+rick ross	1
+Dio	1
+Saddle Creek	1
+Megadeth	1
+trap rap	1
+cheryl cole	1
+Modest Mouse	1
+British Punk	1
+John Williams	1
+res	1
+slim shady	1
+goa	1
+Muse	1
+Nelly	1
+battle metal	1
+MJ-soul strollin	1
+paul mccartney	1
+duran duran	1
+AFI	1
+king of pop	1
+Dirty Dutch	1
+norah jones	1
+Swedish House Mafia	1
+oasis	1
+Sophisti-Pop	1
+heavy dubstep	1
+metallica	1
+symphonic prog	1
+Enrique Iglesias	1
+fleet foxes	1
+Broadway	1
+turkishunicorn2	1
+The Script	1
+folks	1
+David Gray	1
+neptunes	1
+kid ink	1
+austin	1
+dire straits	1
+young the giant	1
+taking back sunday	1
+post hardcore	1
+discover	1
+death cab for cutie	1
+chubby	1
+cash money	1
+virally female	1
+james brown	1
+yiruma	1
+the game	1
+Swedish Death Metal	1
+unknown	1
+k-pop	1
+sam cooke	1
+The Killers	1
+via:8tracks	1
+Becky G	1
+genesis	1
+movie score composers	1
+Cypress Hill	1
+chanson francaise	1
+alternative pop	1
+the rolling stones	1
+Dusty Springfield	1
+alternative country	1
+tool	1
+Blink 182	1
+miles davis	1
+scorpions	1
+World Music	1
+instrumental metal	1
+Snoop Dogg	1
+modern country	1
+Love	1
+travis	1
+Ace Of Base	1
+glitch hop	1
+INXS	1
+eurodance	1
+Adele	1
+desert rock	1
+lolita goth rock kawaii desu ne	1
+Madonna	1
+flute	1
+Smashing Pumpkins	1
+3 Doors Down	1
+the netherlands	1
+fat mixes	1
+street punk	1
+Chopin	1
+Lily Allen	1
+sum 41	1
+Danger Mouse	1
+The Pussycat Dolls	1
+1	1
+Tears for Fears	1
+cool jazz	1
+the worst thing ever to happen to music	1
+Cosmopolitan	1
+franz ferdinand	1
+kgrl	1
+elvis metal	1
+walk the moon	1
+John Legend	1
+kesha	1
+orgcore	1
+Gypsy	1
+ella fitzgerald	1
+iceland	1
+cello rock	1
+System of a Down	1
+contemporary rnb	1
+rockabilly metal	1
+All Time Low	1
+Italo Disco	1
+Slayer	1
+atmospheric rock	1
+basement jaxx	1
+breakcore	1
+daughtry	1
+downbeat	1
+Tristan Prettyman	1
+Post punk	1
+oon kayny kattomassa	1
+black death metal	1
+Sheryl Crow	1
+free earl	1
+fantasy metal	1
+5 Seconds of Summer	1
+kings of metal	1
+kid cudi	1
+sara bareilles	1
+stoner	1
+trillwave	1
+chillwave art	1
+pay attention	1
+leonard cohen	1
+Carly Rae Jepsen	1
+Kelly Clarkson	1
+Flo Rida	1
+Phil Collins	1
+eurythmics	1
+garfield sex music	1
+contemporary country	1
+Officially Shit	1
+sludge metal	1
+big room house	1
+genius	1
+michael buble	1
+jazz piano	1
+hardcore rap	1
+Trivium	1
+bush	1
+Drowning Pool	1
+Idina Menzel	1
+Leeds	1
+tori amos	1
+big sean	1
+leona lewis	1
+pure talent	1
+Fall Out Boy	1
+old school death metal	1
+City And Colour	1
+80s-influenced	1
+private:watchlist	1
+Fergie	1
+Rhythmic Noise	1
+George Ellias	1
+ComplimentYourSoul	1
+frank sinatra	1
+Chiemsee	1
+boys night out - the heirs of error	1
+ellias	1
+The Strokes	1
+industrial hip-hop	1
+ZZ Top	1
+Southern Hip Hop	1
+organ	1
+whorecore	1
+denmark	1
+prog-rnb	1
+lord of the rings	1
+nickelodeon	1
+destinys child	1
+futuristic	1
+beethoven	1
+Driving	1
+depressive rock	1
+Electric Strings	1
+vine	1
+Rush	1
+shoegaze hip-hop	1
+vivaldi	1
+my chemical romance	1
+billie holiday	1
+roy orbison	1
+brazil	1
+yung dynasty	1
+afrobeat	1
+tegan and sara	1
+manowar	1
+PE 75	1
+gaga	1
+new 2015	1
+backstreet boys	1
+Anjunabeats	1
+Usher	1
+sultry rock pop	1
+Billy Idol	1
+mac miller	1
+Jimmy Eat World	1
+Avant-Garde Jazz	1
+finnish rock	1
+The Fray	1
+foo fighters	1
+Christina Aguilera	1
+Reggaeton	1
+pearl jam	1
+Taylor Momsen	1
+kings of leon	1
+Irish Punk	1
+glee	1
+Jason Derulo	1
+PC 50	1
+tlc	1
+rhythm & blues	1
+psytrance	1
+jeremih	1
+lady antebellum	1
+justin bieber	1
+electrofunk	1
+Bee Gees	1
+Neil Young	1
+chiptune	1
+The Band	1
+kasabian	1
+ska-punk	1
+beach rock	1
+mos def	1
+Bruce Springsteen	1
+scratch	1
+Sarah McLachlan	1
+synth rock	1
+southern hip-hop	1
+michael jackson	1
+jazz rap	1
+soulstep	1
+jimi hendrix	1
+anti-folk	1
+vacation	1
+Skrillex	1
+under 2000 listeners	1
+green day	1
+Alter Bridge	1
+melodic trance	1
+r kelly	1
+Death Doom Metal	1
+tyga	1
+skate punk	1
+Mike Oldfield	1
